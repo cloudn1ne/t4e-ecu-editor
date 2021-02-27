@@ -1,0 +1,14 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\10.146.248.20\www\t4e_ecu_editor\</PublishUrlHistory>
+    <InstallUrlHistory>http://my.warp.at/t4e_ecu_editor/</InstallUrlHistory>
+    <SupportUrlHistory>http://my.warp.at/t4e_ecu_editor</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

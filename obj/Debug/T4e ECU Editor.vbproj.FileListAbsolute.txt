@@ -1,0 +1,21 @@
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\T4e ECU Editor.exe.manifest
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\T4e ECU Editor.application
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\T4e ECU Editor.exe
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\T4e ECU Editor.pdb
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\T4e ECU Editor.xml
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\Ciloci.Flee.dll
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\bin\Debug\Ciloci.Flee.xml
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\ResolveAssemblyReference.cache
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.AboutBox.resources
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.Main.resources
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.Resources.resources
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.Test.resources
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e ECU Editor.vbproj.GenerateResource.Cache
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e ECU Editor.exe.manifest
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e ECU Editor.application
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e ECU Editor.exe
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e ECU Editor.xml
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e ECU Editor.pdb
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.Datalogger.resources
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.MapDataGrid.resources
+\\10.146.248.20\cn\Elise ECU\t4e_ecu_editor\T4e ECU Editor\obj\Debug\T4e_ECU_Editor.ECUConnect.resources
